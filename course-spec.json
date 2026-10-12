@@ -1,0 +1,15 @@
+{
+  "course": {"title":"臺灣！我來了","subtitle":"候鳥領航員地圖闖關","grade":5,"subject":"社會","locale":"zh-Hant-TW","source_files":["/Users/janey/Downloads/社會5上_115備課資源/學習手帳/教用/五上學習手帳_第一單元臺灣！我來了(教用).pdf","/Users/janey/Downloads/社會5上_115備課資源/學習手帳/學用/五上學習手帳_第一單元臺灣！我來了(學用).pdf"]},
+  "theme": {"story_world":"跟著候鳥在臺灣周邊完成定位任務","mascots":["黑面琵鷺領航員"],"colors":["#0B4F6C","#1B7F79","#F4C95D","#E76F51"]},
+  "privacy": {"student_identity_fields":["name"],"retention_days_after_completion":365,"public_leaderboard":false},
+  "prerequisites": [{"concept":"地圖方位","prompt":"地圖上方通常表示哪個方向？","options":["北方","南方","西方"],"answer":0,"hint":"看看羅盤上方的字母 N。"}],
+  "lessons": [
+    {"id":1,"title":"臺灣在哪裡？","essential_question":"我能判讀臺灣與周邊地區的相對位置嗎？","concepts":["臺灣位於北半球","臺灣位於亞洲東側","臺灣位於太平洋西側"],"knowledge_cards":["日本在臺灣北邊","菲律賓在臺灣南邊","中國在臺灣西邊"],"inquiry_tool":"map","game_type":"拖曳地圖定位","scenario":"協助候鳥辨認臺灣周邊的國家與海洋"},
+    {"id":2,"title":"島嶼集合點","essential_question":"臺灣的區域範圍包括哪些島嶼？","concepts":["臺灣島","澎湖群島","金門群島","馬祖列島"],"knowledge_cards":["澎湖位於臺灣海峽","金門靠近中國東南沿海","馬祖位於臺灣西北方"],"inquiry_tool":"map","game_type":"拖曳地圖定位","scenario":"把島嶼名稱放回地圖"},
+    {"id":3,"title":"海岸巡守隊","essential_question":"臺灣四方海岸各有什麼特色？","concepts":["北部岬灣海岸","西部沙洲海岸","南部珊瑚礁海岸","東部斷崖海岸"],"knowledge_cards":["岬灣海岸線曲折","沙洲海岸常見潟湖與溼地","斷崖海岸筆直陡峭"],"inquiry_tool":"map","game_type":"拖曳配對","scenario":"根據方位判斷海岸類型"},
+    {"id":4,"title":"史前遺址考古隊","essential_question":"臺灣的重要史前文化遺址分布在哪裡？","concepts":["八仙洞遺址","圓山遺址","卑南遺址","十三行遺址"],"knowledge_cards":["八仙洞位於臺東長濱","圓山與十三行位於北部","卑南位於臺東"],"inquiry_tool":"map","game_type":"拖曳地圖定位","scenario":"依據地圖方位找出四處史前遺址"}
+  ],
+  "quiz": {"question_count":16,"passing_score":100,"retry_allowed":true,"show_explanations":true},
+  "certificate": {"enabled":true,"format":"landscape-pdf","requires_all_lessons":true,"requires_all_scenarios":true},
+  "publishing": {"public_learning_pages":true,"teacher_admin_requires_chatgpt":false}
+}
